@@ -10,6 +10,7 @@ Just Perfect Mask est une marque que j'ai créée et développée pendant la cri
 
 L'objectif du projet était donc de concevoir une solution plus adaptée, à la fois fonctionnelle, confortable, esthétique et cohérente avec les contraintes de production et de distribution d'une période très instable.
 
+> Voir les preuves visuelles du projet : [dossier médias](./medias/)
 ---
 
 ## 2. Problème identifié
