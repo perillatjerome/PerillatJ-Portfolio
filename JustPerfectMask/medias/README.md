@@ -38,14 +38,3 @@ Ces éléments illustrent plusieurs dimensions du projet :
 Ces médias ne sont pas présentés comme des preuves techniques ou réglementaires, mais comme des éléments visuels permettant de documenter le projet entrepreneurial.
 
 Ils montrent que Just Perfect Mask n'était pas seulement une idée, mais un projet réellement conçu, produit, distribué, relayé par des partenaires et adopté par des utilisateurs.
-
-Pour un jury, ces visuels permettent de vérifier rapidement plusieurs éléments :
-
-* le produit existait réellement ;
-* la marque avait une identité visuelle ;
-* la gamme était structurée ;
-* le projet avait des partenaires ;
-* le produit était présent en points de vente ;
-* la diffusion dépassait le simple cercle personnel ;
-* des clients et utilisateurs ont interagi avec la marque ;
-* le besoin marché était identifiable.
