@@ -31,6 +31,9 @@ Aujourd'hui, je souhaite mettre cette expérience au service de projets innovant
 - 60 points de vente référencés
 - Jusqu'à 100 commandes par jour
 
+### Etudes de cas
+- [Étude de cas – Just Perfect Mask](./JustPerfectMask/)
+
 ---
 
 ## Centres d'intérêt
