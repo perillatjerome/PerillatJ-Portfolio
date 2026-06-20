@@ -8,6 +8,8 @@ J'ai conçu, développé et commercialisé une solution textile innovante distri
 
 Aujourd'hui, je souhaite mettre cette expérience au service de projets innovants à fort impact et développer mes compétences en management de l'innovation et des projets complexes.
 
+- [Mon projet professionnel](./Mon_Projet_Professionnel.md)
+
 ---
 
 ## Expériences
