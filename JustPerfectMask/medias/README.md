@@ -28,7 +28,7 @@ Ces éléments illustrent plusieurs dimensions du projet :
 | <img src="./06-partenaire-la-loge-annecy.jpg" width="160">         | `06-partenaire-la-loge-annecy.jpg`         | Relais par un acteur professionnel du secteur coiffure / barbe.                                      |
 | <img src="./07-ambassadeur-mr-elegance.jpg" width="160">           | `07-ambassadeur-mr-elegance.jpg`           | Visibilité auprès d'un ambassadeur ou utilisateur identifié.                                         |
 | <img src="./08-livraison-internationale-belgique.jpg" width="160"> | `08-livraison-internationale-belgique.jpg` | Preuve de diffusion internationale.                                                                  |
-| <img src="./09-avis-page-facebook.jpg" width="160">                | `09-avis-page-facebook.jpg`                | Preuve sociale : page publique, recommandations et avis clients.                                     |
+| <img src="./09-avis-page_facebook.jpg" width="160">                | `09-avis-page_facebook.jpg`                | Preuve sociale : page publique, recommandations et avis clients.                                     |
 | <img src="./10-article-presse-besoin-marche.jpg" width="160">      | `10-article-presse-besoin-marche.jpg`      | Illustration du besoin marché autour des difficultés liées au port du masque pour les hommes barbus. |
 
 ---
