@@ -173,16 +173,21 @@ Document d’archive anonymisé :
 
 ---
 
-### 8. Exemple de relais partenaire – La Loge Annecy
+### Relais partenaire – La Loge Annecy
 
-Le projet a également été relayé par des partenaires professionnels du secteur de la barbe et de la coiffure.
+Le développement du projet s’est également appuyé sur des relais professionnels du secteur de la barbe et de la coiffure.
 
-Parmi ces relais, le salon La Loge à Annecy a publié plusieurs photos de clients et professionnels portant le masque Just Perfect Mask en situation réelle, accompagnées d’un retour positif sur le produit.
+Le salon La Loge à Annecy a publié plusieurs photos du masque Just Perfect Mask en situation réelle, accompagné d’un retour positif sur le produit.
 
-Ce type de relais terrain a joué un rôle important dans la crédibilité du projet : il permettait de montrer le produit en usage, dans un environnement professionnel cohérent avec la cible, et de rassurer les futurs utilisateurs comme les futurs partenaires.
+> “Un masque enfin adapté au Barbu !!”
+
+Ce type de relais terrain a joué un rôle important dans la crédibilité du projet. Il permettait de montrer le produit en usage réel, dans un environnement professionnel cohérent avec la cible, et de rassurer les futurs utilisateurs comme les futurs partenaires.
 
 Capture d’archive :
 [Relais partenaire – La Loge Annecy](./medias/relais-partenaire-la-loge-annecy.png)
+
+Source : publication Facebook publique du salon La Loge Annecy, avril 2021.
+
 
 ---
 
