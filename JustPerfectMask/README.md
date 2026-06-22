@@ -173,7 +173,20 @@ Document d’archive anonymisé :
 
 ---
 
-## 8. Résultats obtenus
+### 8. Exemple de relais partenaire – La Loge Annecy
+
+Le projet a également été relayé par des partenaires professionnels du secteur de la barbe et de la coiffure.
+
+Parmi ces relais, le salon La Loge à Annecy a publié plusieurs photos de clients et professionnels portant le masque Just Perfect Mask en situation réelle, accompagnées d’un retour positif sur le produit.
+
+Ce type de relais terrain a joué un rôle important dans la crédibilité du projet : il permettait de montrer le produit en usage, dans un environnement professionnel cohérent avec la cible, et de rassurer les futurs utilisateurs comme les futurs partenaires.
+
+Capture d’archive :
+[Relais partenaire – La Loge Annecy](./medias/relais-partenaire-la-loge-annecy.png)
+
+---
+
+## 9. Résultats obtenus
 
 Le projet a généré des résultats concrets :
 
@@ -190,7 +203,7 @@ Ces résultats montrent que le projet ne s'est pas limité à une idée ou à un
 
 ---
 
-## 9. Enseignements
+## 10. Enseignements
 
 Cette expérience m'a appris qu'une innovation ne repose pas uniquement sur une idée originale.
 
@@ -212,7 +225,7 @@ Just Perfect Mask m'a également appris que la réussite d'un projet dépend aut
 
 ---
 
-## 10. Limites rencontrées
+## 11. Limites rencontrées
 
 Le projet était fortement lié à un contexte exceptionnel : la crise sanitaire et l'obligation du port du masque.
 
@@ -224,7 +237,7 @@ Cette limite a été un enseignement important : un projet innovant doit aussi �
 
 ---
 
-## 11. Lien avec le management de l'innovation
+## 12. Lien avec le management de l'innovation
 
 Avec du recul, Just Perfect Mask représente pour moi une expérience complète de management de l'innovation.
 
@@ -244,7 +257,7 @@ Il m'a également montré mes limites et mon besoin de structurer davantage mes 
 
 ---
 
-## 12. Ce que cette expérience apporte à mon projet professionnel
+## 13. Ce que cette expérience apporte à mon projet professionnel
 
 Just Perfect Mask constitue un fil conducteur important dans mon parcours.
 
