@@ -79,14 +79,15 @@ Cette veille ne correspondait pas à une certification officielle du produit, ma
 
 Les matériaux ont été sélectionnés selon plusieurs critères :
 
-* confort ;
+* capacité de filtration ;
 * respirabilité ;
+* confort ;
 * résistance ;
 * tenue au lavage ;
 * durabilité ;
 * compatibilité avec la fabrication textile ;
 * retour d'expérience utilisateur.
-* 
+
 ### Gestion des motifs et contraintes de coupe
 
 Le développement du produit ne reposait pas uniquement sur le choix des matériaux ou la forme du patron. Certains modèles nécessitaient également une attention particulière au placement des motifs lors de la découpe du tissu.
