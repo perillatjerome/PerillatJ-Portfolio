@@ -86,6 +86,26 @@ Les matériaux ont été sélectionnés selon plusieurs critères :
 * durabilité ;
 * compatibilité avec la fabrication textile ;
 * retour d'expérience utilisateur.
+* 
+### Gestion des motifs et contraintes de coupe
+
+Le développement du produit ne reposait pas uniquement sur le choix des matériaux ou la forme du patron. Certains modèles nécessitaient également une attention particulière au placement des motifs lors de la découpe du tissu.
+
+L’objectif était de garantir un rendu esthétique cohérent une fois le masque porté, en tenant compte du volume du visage, de la forme du masque et de la visibilité du motif sur la partie centrale du produit.
+
+Cette contrainte impliquait de gérer :
+
+* le sens du tissu ;
+* le centrage des motifs ;
+* la symétrie visuelle ;
+* la cohérence entre patron, découpe et couture ;
+* les pertes matière liées à l’optimisation des coupes ;
+* l’impact du rendu final sur la perception qualité du produit.
+
+Cette dimension illustre l’importance du détail dans la conception produit : un masque techniquement fonctionnel devait aussi être esthétiquement maîtrisé pour être réellement adopté par les utilisateurs.
+
+Exemple de rendu porté :
+[Gestion des motifs et rendu sur visage](./medias/justperfectmask-gestion-motifs-coupe-rendu-visage.jpg)
 
 ### Tests et amélioration continue
 
