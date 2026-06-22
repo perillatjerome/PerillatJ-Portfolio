@@ -148,7 +148,32 @@ Cette dynamique a permis de créer une adoption progressive du produit, notammen
 
 ---
 
-## 7. Résultats obtenus
+## 7. Outil commercial B2B – Pack de bienvenue
+
+Pour faciliter l’adoption du produit par les barbiers et les points de vente, j’ai mis en place une offre découverte sous forme de pack de bienvenue.
+
+L’objectif était de réduire le risque perçu par les professionnels au moment du premier contact. Le produit était nouveau, la marque venait d’être créée, et les partenaires potentiels pouvaient naturellement hésiter à référencer une solution encore inconnue.
+
+Le principe de l’offre était simple :
+
+* envoi gratuit d’un pack de bienvenue ;
+* mise à disposition des produits pendant 30 jours ;
+* absence d’avance de frais ;
+* absence d’objectif de vente imposé ;
+* possibilité de retourner les invendus ;
+* facturation uniquement des produits vendus ;
+* possibilité de conserver le pack complet en cas d’intérêt commercial.
+
+Cette démarche permettait de transformer une démarche commerciale froide en test concret du produit sur le terrain. Elle donnait aux partenaires la possibilité de juger eux-mêmes la qualité du produit, son intérêt pour leurs clients et sa pertinence dans leur point de vente.
+
+Ce dispositif illustre une logique importante du projet : ne pas seulement chercher à vendre, mais créer les conditions de la confiance, réduire les freins à l’adoption et construire progressivement un réseau de partenaires.
+
+Document d’archive anonymisé :
+[Offre découverte – Pack de bienvenue](./medias/offre-decouverte-pack-bienvenue-anonymise.pdf)
+
+---
+
+## 8. Résultats obtenus
 
 Le projet a généré des résultats concrets :
 
@@ -165,7 +190,7 @@ Ces résultats montrent que le projet ne s'est pas limité à une idée ou à un
 
 ---
 
-## 8. Enseignements
+## 9. Enseignements
 
 Cette expérience m'a appris qu'une innovation ne repose pas uniquement sur une idée originale.
 
@@ -187,7 +212,7 @@ Just Perfect Mask m'a également appris que la réussite d'un projet dépend aut
 
 ---
 
-## 9. Limites rencontrées
+## 10. Limites rencontrées
 
 Le projet était fortement lié à un contexte exceptionnel : la crise sanitaire et l'obligation du port du masque.
 
@@ -199,7 +224,7 @@ Cette limite a été un enseignement important : un projet innovant doit aussi �
 
 ---
 
-## 10. Lien avec le management de l'innovation
+## 11. Lien avec le management de l'innovation
 
 Avec du recul, Just Perfect Mask représente pour moi une expérience complète de management de l'innovation.
 
@@ -219,7 +244,7 @@ Il m'a également montré mes limites et mon besoin de structurer davantage mes 
 
 ---
 
-## 11. Ce que cette expérience apporte à mon projet professionnel
+## 12. Ce que cette expérience apporte à mon projet professionnel
 
 Just Perfect Mask constitue un fil conducteur important dans mon parcours.
 
