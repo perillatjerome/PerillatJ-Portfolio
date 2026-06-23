@@ -47,7 +47,7 @@ Aujourd'hui, je souhaite mettre cette expérience au service de projets innovant
 
 ## CV
 
-📄 [Télécharger mon CV](./documents/Cv MASTER PERILLAT Jérôme 2026.pdf)
+📄 [Télécharger mon CV](./documents/CV_Jerome_Perillat_2026_public.pdf)
 
 ---
 
