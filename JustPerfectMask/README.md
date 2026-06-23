@@ -223,7 +223,7 @@ Le projet a généré des résultats concrets :
 * distribution dans 12 pays ;
 * environ 60 points de vente référencés ;
 * réseau de plus de 15 partenaires ;
-* jusqu'à 100 commandes quotidiennes en période de forte activité ;
+* jusqu'à 70 commandes quotidiennes en période de forte activité ;
 * taux de retour inférieur à 0,2 % ;
 * chiffre d'affaires d'environ 85 000 € ;
 * visibilité auprès de communautés spécialisées autour de la barbe, du soin masculin et des barbiers.
