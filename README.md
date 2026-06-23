@@ -29,7 +29,7 @@ Aujourd'hui, je souhaite mettre cette expérience au service de projets innovant
 - 8 000+ produits commercialisés
 - Distribution dans 12 pays
 - 60 points de vente référencés
-- Jusqu'à 100 commandes par jour
+- Jusqu'à 70 commandes par jour
 
 ### Etudes de cas
 - [Étude de cas – Just Perfect Mask](./JustPerfectMask/)
