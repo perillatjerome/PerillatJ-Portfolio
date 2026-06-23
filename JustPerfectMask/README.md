@@ -225,7 +225,7 @@ Le projet a généré des résultats concrets :
 * réseau de plus de 15 partenaires ;
 * jusqu'à 70 commandes quotidiennes en période de forte activité ;
 * taux de retour inférieur à 0,2 % ;
-* chiffre d'affaires d'environ 95 000 € ;
+* chiffre d'affaires d'environ 105 000 € ;
 * visibilité auprès de communautés spécialisées autour de la barbe, du soin masculin et des barbiers.
 
 Ces résultats montrent que le projet ne s'est pas limité à une idée ou à un prototype. Il a abouti à une mise sur le marché réelle, avec des utilisateurs, des partenaires, des ventes et des retours terrain.
