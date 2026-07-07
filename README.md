@@ -74,7 +74,8 @@ opérateurs en poste de nuit.
 
 - [Étude de cas — Just Perfect Mask](./JustPerfectMask/)
 - [Mon projet professionnel](./Mon_Projet_Professionnel.md)
-
+- [Pourquoi l'intelligence artificielle m'intéresse](./IA/Pourquoi_IA.md)
+  
 ---
 
 ## Centres d'intérêt
