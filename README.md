@@ -52,6 +52,6 @@ Aujourd'hui, je souhaite mettre cette expérience au service de projets innovant
 
 ## Contact
 
-LinkedIn : (https://www.linkedin.com/in/perillat-jerome/)
+LinkedIn : https://www.linkedin.com/in/perillat-jerome/
 
 Email : jeromeperillat@gmail.com
