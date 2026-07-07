@@ -47,12 +47,11 @@ Aujourd'hui, je souhaite mettre cette expérience au service de projets innovant
 
 ## CV
 
-📄 [Télécharger mon CV](./documents/CV_Jerome_Perillat_2026_public.pdf)
 
 ---
 
 ## Contact
 
-LinkedIn : à compléter
+LinkedIn : (https://www.linkedin.com/in/perillat-jerome/)
 
 Email : jeromeperillat@gmail.com
