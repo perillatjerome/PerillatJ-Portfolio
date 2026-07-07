@@ -11,6 +11,7 @@ Just Perfect Mask est une marque que j'ai créée et développée pendant la cri
 L'objectif du projet était donc de concevoir une solution plus adaptée, à la fois fonctionnelle, confortable, esthétique et cohérente avec les contraintes de production et de distribution d'une période très instable.
 
 > Voir les preuves visuelles du projet : [dossier médias](./medias/)
+
 ---
 
 ## 2. Problème identifié
@@ -19,12 +20,12 @@ Le point de départ du projet repose sur une observation simple : les masques di
 
 Pour les porteurs de barbe, cela créait plusieurs problèmes :
 
-* gêne au niveau du maintien ;
-* inconfort pendant une utilisation prolongée ;
-* difficulté à couvrir correctement la barbe ;
-* déformation du masque ;
-* insatisfaction esthétique ;
-* absence d'offre réellement spécialisée.
+- gêne au niveau du maintien ;
+- inconfort pendant une utilisation prolongée ;
+- difficulté à couvrir correctement la barbe ;
+- déformation du masque ;
+- insatisfaction esthétique ;
+- absence d'offre réellement spécialisée.
 
 Ce besoin était à la fois visible sur le terrain, exprimé par des utilisateurs et relayé dans l'univers des barbiers, coiffeurs, salons spécialisés et communautés de porteurs de barbe.
 
@@ -36,13 +37,13 @@ J'ai développé une gamme de masques textiles spécifiquement conçue pour les 
 
 Le projet ne consistait pas uniquement à produire un masque plus grand. Il s'agissait de concevoir une solution cohérente avec un usage réel :
 
-* maintien adapté ;
-* confort utilisateur ;
-* esthétique compatible avec l'identité des porteurs de barbe ;
-* fabrication française ;
-* logique de tailles ;
-* amélioration continue à partir des retours clients ;
-* distribution via des réseaux spécialisés.
+- maintien adapté ;
+- confort utilisateur ;
+- esthétique compatible avec l'identité des porteurs de barbe ;
+- fabrication française ;
+- logique de tailles ;
+- amélioration continue à partir des retours clients ;
+- distribution via des réseaux spécialisés.
 
 Le positionnement de la marque reposait sur une idée simple : proposer une solution pensée pour une population oubliée par l'offre standard.
 
@@ -60,14 +61,14 @@ J'ai d'abord identifié un besoin utilisateur non couvert, à partir de l'observ
 
 J'ai ensuite formalisé les attentes du produit :
 
-* adaptation à différentes longueurs de barbe ;
-* confort ;
-* respirabilité ;
-* résistance ;
-* tenue dans le temps ;
-* facilité d'utilisation ;
-* esthétique ;
-* cohérence avec les contraintes de fabrication.
+- adaptation à différentes longueurs de barbe ;
+- confort ;
+- respirabilité ;
+- résistance ;
+- tenue dans le temps ;
+- facilité d'utilisation ;
+- esthétique ;
+- cohérence avec les contraintes de fabrication.
 
 ### Veille réglementaire et technique
 
@@ -79,31 +80,31 @@ Cette veille ne correspondait pas à une certification officielle du produit, ma
 
 Les matériaux ont été sélectionnés selon plusieurs critères :
 
-* capacité de filtration ;
-* respirabilité ;
-* confort ;
-* résistance ;
-* tenue au lavage ;
-* durabilité ;
-* compatibilité avec la fabrication textile ;
-* retour d'expérience utilisateur.
+- capacité de filtration ;
+- respirabilité ;
+- confort ;
+- résistance ;
+- tenue au lavage ;
+- durabilité ;
+- compatibilité avec la fabrication textile ;
+- retour d'expérience utilisateur.
 
 ### Gestion des motifs et contraintes de coupe
 
 Le développement du produit ne reposait pas uniquement sur le choix des matériaux ou la forme du patron. Certains modèles nécessitaient également une attention particulière au placement des motifs lors de la découpe du tissu.
 
-L’objectif était de garantir un rendu esthétique cohérent une fois le masque porté, en tenant compte du volume du visage, de la forme du masque et de la visibilité du motif sur la partie centrale du produit.
+L'objectif était de garantir un rendu esthétique cohérent une fois le masque porté, en tenant compte du volume du visage, de la forme du masque et de la visibilité du motif sur la partie centrale du produit.
 
 Cette contrainte impliquait de gérer :
 
-* le sens du tissu ;
-* le centrage des motifs ;
-* la symétrie visuelle ;
-* la cohérence entre patron, découpe et couture ;
-* les pertes matière liées à l’optimisation des coupes ;
-* l’impact du rendu final sur la perception qualité du produit.
+- le sens du tissu ;
+- le centrage des motifs ;
+- la symétrie visuelle ;
+- la cohérence entre patron, découpe et couture ;
+- les pertes matière liées à l'optimisation des coupes ;
+- l'impact du rendu final sur la perception qualité du produit.
 
-Cette dimension illustre l’importance du détail dans la conception produit : un masque techniquement fonctionnel devait aussi être esthétiquement maîtrisé pour être réellement adopté par les utilisateurs.
+Cette dimension illustre l'importance du détail dans la conception produit : un masque techniquement fonctionnel devait aussi être esthétiquement maîtrisé pour être réellement adopté par les utilisateurs.
 
 Exemple de rendu porté :
 [Gestion des motifs et rendu sur visage](./medias/justperfectmask-gestion-motifs-coupe-rendu-visage.jpg)
@@ -112,12 +113,12 @@ Exemple de rendu porté :
 
 Des tests internes ont été réalisés afin d'évaluer :
 
-* la tenue au lavage ;
-* le froissage ;
-* la résistance mécanique ;
-* la tenue dans le temps ;
-* le confort d'utilisation ;
-* l'adaptation aux différentes morphologies.
+- la tenue au lavage ;
+- le froissage ;
+- la résistance mécanique ;
+- la tenue dans le temps ;
+- le confort d'utilisation ;
+- l'adaptation aux différentes morphologies.
 
 Les retours clients ont également joué un rôle central dans l'amélioration progressive du produit.
 
@@ -155,15 +156,15 @@ Le développement de Just Perfect Mask s'est appuyé sur un écosystème de part
 
 Le projet a notamment mobilisé :
 
-* des fabricants ;
-* des barbiers ;
-* des salons spécialisés ;
-* des distributeurs ;
-* des ambassadeurs ;
-* des influenceurs ;
-* des communautés de porteurs de barbe ;
-* des points de vente physiques ;
-* des clients utilisateurs.
+- des fabricants ;
+- des barbiers ;
+- des salons spécialisés ;
+- des distributeurs ;
+- des ambassadeurs ;
+- des influenceurs ;
+- des communautés de porteurs de barbe ;
+- des points de vente physiques ;
+- des clients utilisateurs.
 
 Cette dynamique a permis de créer une adoption progressive du produit, notamment grâce au bouche-à-oreille, aux réseaux sociaux, aux retours clients et aux relais professionnels.
 
@@ -171,47 +172,43 @@ Cette dynamique a permis de créer une adoption progressive du produit, notammen
 
 ## 7. Outil commercial B2B – Pack de bienvenue
 
-Pour faciliter l’adoption du produit par les barbiers et les points de vente, j’ai mis en place une offre découverte sous forme de pack de bienvenue.
+Pour faciliter l'adoption du produit par les barbiers et les points de vente, j'ai mis en place une offre découverte sous forme de pack de bienvenue.
 
-L’objectif était de réduire le risque perçu par les professionnels au moment du premier contact. Le produit était nouveau, la marque venait d’être créée, et les partenaires potentiels pouvaient naturellement hésiter à référencer une solution encore inconnue.
+L'objectif était de réduire le risque perçu par les professionnels au moment du premier contact. Le produit était nouveau, la marque venait d'être créée, et les partenaires potentiels pouvaient naturellement hésiter à référencer une solution encore inconnue.
 
-Le principe de l’offre était simple :
+Le principe de l'offre était simple :
 
-* envoi gratuit d’un pack de bienvenue ;
-* mise à disposition des produits pendant 30 jours ;
-* absence d’avance de frais ;
-* absence d’objectif de vente imposé ;
-* possibilité de retourner les invendus ;
-* facturation uniquement des produits vendus ;
-* possibilité de conserver le pack complet en cas d’intérêt commercial.
+- envoi gratuit d'un pack de bienvenue ;
+- mise à disposition des produits pendant 30 jours ;
+- absence d'avance de frais ;
+- absence d'objectif de vente imposé ;
+- possibilité de retourner les invendus ;
+- facturation uniquement des produits vendus ;
+- possibilité de conserver le pack complet en cas d'intérêt commercial.
 
 Cette démarche permettait de transformer une démarche commerciale froide en test concret du produit sur le terrain. Elle donnait aux partenaires la possibilité de juger eux-mêmes la qualité du produit, son intérêt pour leurs clients et sa pertinence dans leur point de vente.
 
-Ce dispositif illustre une logique importante du projet : ne pas seulement chercher à vendre, mais créer les conditions de la confiance, réduire les freins à l’adoption et construire progressivement un réseau de partenaires.
+Ce dispositif illustre une logique importante du projet : ne pas seulement chercher à vendre, mais créer les conditions de la confiance, réduire les freins à l'adoption et construire progressivement un réseau de partenaires.
 
-Document d’archive anonymisé :
+Document d'archive anonymisé :
 [Offre découverte – Pack de bienvenue](./medias/offre-decouverte-pack-bienvenue-anonymise.pdf)
 
 ---
 
-### Relais partenaire – La Loge Annecy
+## 8. Relais partenaire – La Loge Annecy
 
-Le développement de Just Perfect Mask s’est également appuyé sur des relais professionnels du secteur de la barbe et de la coiffure.
+Le développement de Just Perfect Mask s'est également appuyé sur des relais professionnels du secteur de la barbe et de la coiffure.
 
-Le salon La Loge à Annecy a publié plusieurs photos du masque Just Perfect Mask en situation réelle, accompagnées d’un retour positif sur le produit.
+Le salon La Loge à Annecy a publié plusieurs photos du masque Just Perfect Mask en situation réelle, accompagnées d'un retour positif sur le produit.
 
-> “Un masque enfin adapté au Barbu !!”
+> "Un masque enfin adapté au Barbu !!"
 
 Ce type de relais terrain a joué un rôle important dans la crédibilité du projet. Il permettait de montrer le produit en usage réel, dans un environnement professionnel cohérent avec la cible, et de rassurer les futurs utilisateurs comme les futurs partenaires.
 
-Capture d’archive :
+Capture d'archive :
 [Relais partenaire – La Loge Annecy](./medias/justperfectmask-temoignage-partenaire-la-loge-annecy.png)
 
 Source : publication Facebook publique du salon La Loge Annecy, avril 2021.
-
----
-
-
 
 ---
 
@@ -219,14 +216,14 @@ Source : publication Facebook publique du salon La Loge Annecy, avril 2021.
 
 Le projet a généré des résultats concrets :
 
-* plus de 8 000 produits commercialisés ;
-* distribution dans 12 pays ;
-* environ 60 points de vente référencés ;
-* réseau de plus de 15 partenaires ;
-* jusqu'à 70 commandes quotidiennes en période de forte activité ;
-* taux de retour inférieur à 0,2 % ;
-* chiffre d'affaires d'environ 105 000 € ;
-* visibilité auprès de communautés spécialisées autour de la barbe, du soin masculin et des barbiers.
+- plus de 8 000 produits commercialisés ;
+- distribution dans 12 pays ;
+- environ 60 points de vente référencés ;
+- réseau de plus de 15 partenaires ;
+- jusqu'à 70 commandes quotidiennes en période de forte activité ;
+- taux de retour inférieur à 0,2 % ;
+- chiffre d'affaires d'environ 105 000 € sur 18 mois ;
+- visibilité auprès de communautés spécialisées autour de la barbe, du soin masculin et des barbiers.
 
 Ces résultats montrent que le projet ne s'est pas limité à une idée ou à un prototype. Il a abouti à une mise sur le marché réelle, avec des utilisateurs, des partenaires, des ventes et des retours terrain.
 
@@ -238,17 +235,17 @@ Cette expérience m'a appris qu'une innovation ne repose pas uniquement sur une 
 
 Elle nécessite de savoir :
 
-* identifier un besoin réel ;
-* comprendre les usages ;
-* formaliser un cahier des charges ;
-* tester et améliorer ;
-* gérer des contraintes techniques ;
-* arbitrer entre qualité, délais, coût et faisabilité ;
-* coordonner des parties prenantes ;
-* communiquer clairement ;
-* construire un réseau ;
-* accepter l'incertitude ;
-* prendre du recul sur les limites du modèle.
+- identifier un besoin réel ;
+- comprendre les usages ;
+- formaliser un cahier des charges ;
+- tester et améliorer ;
+- gérer des contraintes techniques ;
+- arbitrer entre qualité, délais, coût et faisabilité ;
+- coordonner des parties prenantes ;
+- communiquer clairement ;
+- construire un réseau ;
+- accepter l'incertitude ;
+- prendre du recul sur les limites du modèle.
 
 Just Perfect Mask m'a également appris que la réussite d'un projet dépend autant de l'exécution que de l'idée initiale.
 
@@ -272,15 +269,15 @@ Avec du recul, Just Perfect Mask représente pour moi une expérience complète 
 
 Ce projet m'a permis de travailler sur :
 
-* l'identification d'un besoin utilisateur ;
-* la conception d'une solution ;
-* la gestion de contraintes multiples ;
-* le développement d'un écosystème ;
-* l'amélioration continue ;
-* la commercialisation ;
-* la coordination de partenaires ;
-* la gestion de l'incertitude ;
-* la prise de décision dans un environnement mouvant.
+- l'identification d'un besoin utilisateur ;
+- la conception d'une solution ;
+- la gestion de contraintes multiples ;
+- le développement d'un écosystème ;
+- l'amélioration continue ;
+- la commercialisation ;
+- la coordination de partenaires ;
+- la gestion de l'incertitude ;
+- la prise de décision dans un environnement mouvant.
 
 Il m'a également montré mes limites et mon besoin de structurer davantage mes compétences en stratégie, conduite du changement, pilotage de projets complexes et management de l'innovation.
 
@@ -294,6 +291,6 @@ Après une première partie de carrière dans l'industrie pharmaceutique, où j'
 
 Il m'a appris à passer de l'observation d'un problème à la construction d'une solution concrète, puis à sa mise sur le marché.
 
-Aujourd'hui, je souhaite transformer cette expérience de terrain en compétences plus structurées afin de piloter des projets innovants et complexes dans des environnements variés.
+Aujourd'hui, je structure cette expérience afin de piloter des projets innovants et complexes dans des environnements variés.
 
 C'est dans cette logique que je candidate à l'Executive Master Management de l'Innovation et des Projets Complexes de l'iaelyon.
