@@ -70,12 +70,18 @@ opérateurs en poste de nuit.
 
 ---
 
+## CV
+
+📄 [Télécharger le CV](./documents/CV_Jerome_PERILLAT_public.pdf)
+
+---
+
 ## Études de cas & Portfolio
 
 - [Étude de cas — Just Perfect Mask](./JustPerfectMask/)
 - [Mon projet professionnel](./Mon_Projet_Professionnel.md)
 - [Pourquoi l'intelligence artificielle m'intéresse](./IA/Pourquoi_IA.md)
-  
+
 ---
 
 ## Centres d'intérêt
