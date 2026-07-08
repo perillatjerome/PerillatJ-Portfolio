@@ -60,7 +60,7 @@ Ces deux outils intègrent des données personnelles et une base de
 connaissances propriétaire construite sur mesure. Les partager sans ce 
 contexte les viderait de leur substance.
 
-La démarche est documentée ici. Les outils évolueront — une version 
+La démarche est documentée ici. Les outils évolueront, une version 
 partageable pourra être publiée ultérieurement.
 
 ---
