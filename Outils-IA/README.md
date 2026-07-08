@@ -31,7 +31,7 @@ du résultat.
 
 ## Master Coach MIPC
 
-GPT personnalisé conçu comme coach d'apprentissage pour l'Executive 
+Projet personnalisé conçu comme coach d'apprentissage pour l'Executive 
 Master Management de l'Innovation et des Projets Complexes.
 
 Base de connaissances intégrée : programme officiel du Master, parcours 
