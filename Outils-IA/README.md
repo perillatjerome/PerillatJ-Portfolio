@@ -68,7 +68,8 @@ partageable pourra être publiée ultérieurement.
 ## Ce que cette démarche illustre
 
 Identifier un besoin → concevoir une solution → la structurer → 
-l'itérer → l'utiliser au quotidien.
+l'itérer → l'utiliser au quotidien → tester ses limites → 
+l'améliorer en continu.
 
 C'est exactement la logique que je veux appliquer dans le management 
 de projets complexes intégrant l'IA.
